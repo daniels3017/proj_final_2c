@@ -1,0 +1,10 @@
+h1{color:black; background-color: darkgreen;}
+body{background-color: purple;}
+img{width: 50%;}
+
+img{border: 30px;
+border-color: rgb(102, 221, 5);
+border-style: solid;}
+
+img{margin-left: 30%;}
+img{width: 60%;}
